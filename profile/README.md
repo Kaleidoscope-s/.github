@@ -4,14 +4,18 @@
   
 </div>
 
-##  **Problem Domain:** :confused:
+## <div align="center">  **Problem Domain:** :confused: 
+</div>
+
 <div align="center">
 
 Kaleidoscope has been contracted to improve the cybersecurity processes and systems for a client company, focusing on logging, monitoring, and detection of adversarial activity on cloud infrastructure.
 
 </div>
 
-## **Solution:**
+## <div align="center"> **Solution:**
+</div>
+
 <div align="center">
 
 Kaleidoscope, successfully implemented various measures to enhance the overall security posture of the infrastructure. We began by implementing proper IAM best practices, ensuring secure access and control by implementing IAM for the root account and all team members following AWS best practices. This approach ensured least privilege access and proper authentication.
