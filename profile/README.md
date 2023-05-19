@@ -33,7 +33,7 @@ Overall, Kaleidoscope's comprehensive security implementation encompassed IAM be
 </div>
 
  ___
- # Links
+ # Links 🔗
 
 *Below are the links and details for our 401 End of course project.*
 - [Team Agreement](https://github.com/Kaleidoscope-s/Kaleidoscope/blob/main/Team%20Agreement.pdf)
@@ -45,7 +45,7 @@ Overall, Kaleidoscope's comprehensive security implementation encompassed IAM be
 - [Video Presentation]
 
 
-# Meet the team:
+# Meet the team: 🤘
 
 | Ademola Olatunbosun | <font color="blue">Joshua Phipps</font> |
 |---|---|
