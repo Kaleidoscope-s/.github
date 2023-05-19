@@ -32,8 +32,6 @@ Overall, Kaleidoscope's comprehensive security implementation encompassed IAM be
 
 </div>
 
-
- <small> *Kaleidoscope is a group of cohorts currently enrolled at Code Fellows OPS Cybersecurity class. This is a collection of our 401 Cybersecurity Engineering Mid-Term project.* </small>
  ___
  # Links
 
@@ -65,4 +63,4 @@ Overall, Kaleidoscope's comprehensive security implementation encompassed IAM be
 | [![Image of Sage](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/AnnyeongAloha?tab=repositories) [![Image of Sage](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/justintabios/) |
 
 
-
+ <small> *Kaleidoscope is a group of cohorts currently enrolled at Code Fellows OPS Cybersecurity class. This is a collection of our 401 Cybersecurity Engineering Mid-Term project.* </small>
