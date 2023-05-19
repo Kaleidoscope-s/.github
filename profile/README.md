@@ -54,7 +54,7 @@ For cloud monitoring, Kaleidoscope utilized VPC Flow Logs to capture and monitor
 
 | Nickolaus Alderete | Andrew Perry |
 |---|---|
-| **US Army Veteran, low voltage electrician transitioning into the cybersecurity realm.** | **I am Andrew** |
+| **US Army Veteran, low voltage electrician transitioning into the cybersecurity realm.** | **I am Andrew and I am currently an emergency medical technician expanding into the cyber security field** |
 | [![Image of Nick A](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/Nkalderete?tab=repositories) [![Image of Nick](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/nickolaus-alderete/) | [![Image of Andrew](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/Perryandr?tab=repositories) [![Image of Andrew](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/andrew-perry-0998b7263/) |
 
 | Justin "Sage" Tabios |
