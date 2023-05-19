@@ -13,7 +13,7 @@ Kaleidoscope has been contracted to improve the cybersecurity processes and syst
 
 </div>
 
-## <div align="center"> **Solution:**
+## <div align="center"> **Solution:** :bulb:
 </div>
 
 <div align="center">
