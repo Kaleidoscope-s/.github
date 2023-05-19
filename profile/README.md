@@ -41,7 +41,7 @@ For cloud monitoring, Kaleidoscope utilized VPC Flow Logs to capture and monitor
 - [Trello board](https://trello.com/b/v58AMIHw/project-management)
 - [Topologies/Visuals](https://github.com/Kaleidoscope-s/Kaleidoscope/blob/main/KTop.jpg)
 - [Scripting](https://github.com/Kaleidoscope-s/Scripting)
-- [Slideshow]
+- [Slideshow](https://github.com/Kaleidoscope-s/Kaleidoscope/blob/main/Mid_Final%20Project%20Deck%20Template.pdf)
 - [Video Presentation]
 
 
