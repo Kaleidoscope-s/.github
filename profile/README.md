@@ -24,7 +24,7 @@ In terms of server hardening and data protection, Kaleidoscope deployed a CIS-co
 
 For the CIS-compliant data server, Kaleidoscope deployed a Linux server instance containing PII and PCI data. They prioritized data protection by ensuring encryption at rest for the data stored on the server and implementing encryption in transit for secure data communication.
 
-In terms of log aggregation and monitoring, Kaleidoscope configured and integrated the SIEM solution CloudWatch. We enabled real-time ingestion of event logs from key assets, including EC2 instances, which facilitated centralized log monitoring and analysis. Additionally, we demonstrated an attack scenario using a Python script with a new library, triggering an event that was ingested by the SIEM solution.
+In terms of log aggregation and monitoring, Kaleidoscope configured and integrated the SIEM solution CloudWatch. We enabled real-time ingestion of event logs from key assets, including EC2 instances, which facilitated centralized log monitoring and analysis. Additionally, we demonstrated an attack scenario using a Python script with the netmiko library, triggering an event that was ingested by the SIEM solution.
 
 For cloud monitoring, Kaleidoscope utilized VPC Flow Logs to capture and monitor traffic within the AWS Cloud environment. They developed an AWS Lambda function to trigger relevant responses to detected threats, improving automated threat detection and mitigation capabilities. Furthermore, they actively monitored the AWS environment for threat activity, including monitoring security logs for failed SSH attempts on instances.
 
