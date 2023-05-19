@@ -49,7 +49,7 @@ For cloud monitoring, Kaleidoscope utilized VPC Flow Logs to capture and monitor
 
 | Ademola Olatunbosun | <font color="blue">Joshua Phipps</font> |
 |---|---|
-| **I am Epidemiologist by profession, US Army Vet, transitioned into Cybersecurity.** | **I am currently a Georgia National Guard soldier transitioning into Cybersecurity.** |
+| **I am Epidemiologist by profession, US Army Vet, transitioned into Cybersecurity.** | **I am currently a Georgia National Guard soldier transitioning into Cybersecurity. xD** |
 | [![Image of Ademola](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/ademo11?tab=repositories) [![Image of Ademola](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/ademola-olatunbosun/) | [![Image of Joshua](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/joshp27?tab=repositories) [![Image of Joshua](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/joshua-phipps-755a20264/) |
 
 | Nickolaus Alderete | Andrew Perry |
