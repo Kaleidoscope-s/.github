@@ -4,7 +4,7 @@
   
 </div>
 
-## <div align="center">  **Problem Domain:** :confused: 
+# <div align="center">  **Problem Domain** :confused: 
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@ Kaleidoscope has been contracted to improve the cybersecurity processes and syst
 
 </div>
 
-## <div align="center"> **Solution:** :bulb:
+# <div align="center"> **Solution** :bulb:
 </div>
 
 <div align="center">
@@ -45,7 +45,7 @@ Overall, Kaleidoscope's comprehensive security implementation encompassed IAM be
 - [Video Presentation]
 
 
-# Meet the team: 🤘
+# Meet the team 🤘
 
 | Ademola Olatunbosun | <font color="blue">Joshua Phipps</font> |
 |---|---|
