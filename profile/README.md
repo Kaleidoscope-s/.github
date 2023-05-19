@@ -28,7 +28,7 @@ In terms of log aggregation and monitoring, Kaleidoscope configured and integrat
 
 For cloud monitoring, Kaleidoscope utilized VPC Flow Logs to capture and monitor traffic within the AWS Cloud environment. They developed an AWS Lambda function to trigger relevant responses to detected threats, improving automated threat detection and mitigation capabilities. Furthermore, they actively monitored the AWS environment for threat activity, including monitoring security logs for failed SSH attempts on instances.
 
-Overall, Kaleidoscope's comprehensive security implementation encompassed IAM best practices, server hardening, data protection, SIEM integration, and cloud monitoring. These efforts significantly enhanced the security infrastructure at Code Fellows, enabling efficient threat detection, response, and mitigation.
+**Overall, Kaleidoscope's comprehensive security implementation encompassed IAM best practices, server hardening, data protection, SIEM integration, and cloud monitoring. These efforts significantly enhanced the security infrastructure at Code Fellows, enabling efficient threat detection, response, and mitigation.**
 
 </div>
 
@@ -38,7 +38,7 @@ Overall, Kaleidoscope's comprehensive security implementation encompassed IAM be
 *Below are the links and details for our 401 End of course project.*
 - [Team Agreement](https://github.com/Kaleidoscope-s/Kaleidoscope/blob/main/Team%20Agreement.pdf)
 - [SOP](https://github.com/Kaleidoscope-s/SOPs)
-- [System Selection doc]
+- [Trello board](https://trello.com/b/v58AMIHw/project-management)
 - [Topologies/Visuals](https://github.com/Kaleidoscope-s/Kaleidoscope/blob/main/KTop.jpg)
 - [Scripting](https://github.com/Kaleidoscope-s/Scripting)
 - [Slideshow]
