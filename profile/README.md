@@ -1,5 +1,9 @@
-## Hi there 👋
-![Logo](https://github.com/Kaleidoscope-s/Kaleidoscope/blob/main/Klogo.png)
+<div align="center">
+  
+![Logo](https://github.com/Kaleidoscope-s/Kaleidoscope/blob/main/3dgifmaker95207.gif)
+  
+</div>
+
 ##  **Problem Domain:** :confused:
 <div align="center">
 
@@ -41,7 +45,7 @@ Overall, Kaleidoscope's comprehensive security implementation encompassed IAM be
 
 # Meet the team:
 
-| Ademola Olatunbosun | Joshua Phipps |
+| Ademola Olatunbosun | <font color="blue">Joshua Phipps</font> |
 |---|---|
 | **I am Epidemiologist by profession, US Army Vet, transitioned into Cybersecurity.** | **I am currently a Georgia National Guard soldier transitioning into Cybersecurity.** |
 | [![Image of Ademola](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/ademo11?tab=repositories) [![Image of Ademola](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/ademola-olatunbosun/) | [![Image of Joshua](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/joshp27?tab=repositories) [![Image of Joshua](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/joshua-phipps-755a20264/) |
@@ -55,4 +59,6 @@ Overall, Kaleidoscope's comprehensive security implementation encompassed IAM be
 |---|
 | **Howzit My name is Justin 'Sage' Tabios.  What I enjoy most about tech is the gaming sector of it.** |
 | [![Image of Sage](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/AnnyeongAloha?tab=repositories) [![Image of Sage](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/justintabios/) |
+
+
 
